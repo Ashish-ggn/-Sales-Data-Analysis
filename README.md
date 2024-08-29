@@ -56,4 +56,15 @@ are clearly visible and insights can be gained .
 
 * Multiple Charts are created for better analysis and predict the sales such as yearly trend for parameters such as Netprofit,Netsales,Discount% Etc, Orders Segementation as per Route,SKU etc.
 
+#### SnapShots Of Dashboard
+![image](https://github.com/user-attachments/assets/2788fe13-f6e4-437b-aaca-54557025495c)
+![image](https://github.com/user-attachments/assets/acd418c3-4560-492f-b7e9-44e4b808e0e0)
+![image](https://github.com/user-attachments/assets/3642fde4-53bc-4a92-97a6-4c37e85ae4cb)
+![image](https://github.com/user-attachments/assets/c80b7640-f5a1-462e-a765-c5a43d852589)
+![image](https://github.com/user-attachments/assets/adabb094-a913-4461-82f0-3af6a1466bdb)
+
+
+
+
+
 
