@@ -1,0 +1,21 @@
+﻿Product Name,Product ID,Date,Warehouse Inventory,Inventory Cost Per Unit,Stock Order Status
+Basketball,P-101,06-09-2019,249,611,Yes
+Bed,P-102,19-04-2020,369,5819,Yes
+Dining Table,P-103,04-08-2022,542,3632,No
+Football,P-104,13-04-2024,473,8421,Yes
+Foundation,P-105,31-05-2021,797,3360,No
+Headphones,P-106,16-11-2019,393,1053,No
+Lipstick,P-107,11-10-2023,379,7767,Yes
+Laptop,P-108,13-10-2022,538,7804,No
+Mascara,P-109,02-08-2024,268,1074,Yes
+Moisturizer,P-110,02-12-2020,64,511,No
+Office Chair,P-111,17-07-2020,236,777,Yes
+Perfume,P-112,04-01-2021,281,1384,No
+Running Shoes,P-113,18-02-2020,947,6830,No
+Smartphone,P-114,14-04-2021,566,1363,No
+Smartwatch,P-115,30-03-2024,570,3804,No
+Sofa ,P-116,16-10-2020,937,5256,Yes
+Tablet,P-117,07-10-2019,572,2477,No
+Tennis Racket,P-118,02-03-2024,897,8432,No
+Wardrobe,P-119,04-09-2021,93,8272,No
+Yoga Mat,P-120,06-10-2023,717,7475,Yes

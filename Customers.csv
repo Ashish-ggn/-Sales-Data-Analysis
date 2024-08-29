@@ -1,0 +1,201 @@
+﻿Customer ID,Customer Name,Country
+1000,John Schultz,Trinidad and Tobago
+1001,Laura Cortez,Libyan Arab Jamahiriya
+1002,Daniel Knight,Guadeloupe
+1003,Angela Simmons,Philippines
+1004,Joshua Haas,Antigua and Barbuda
+1005,Jennifer Harmon,Isle of Man
+1006,Julie Sweeney,Armenia
+1007,Brian Nolan,Switzerland
+1008,Sarah Wilcox,Sudan
+1009,Gregory Moore,Cayman Islands
+1010,Janet Henry,Tunisia
+1011,Karen Hicks,Paraguay
+1012,Amanda Thomas,Nicaragua
+1013,Tracy Sullivan,Syrian Arab Republic
+1014,Kenneth Davis,Kazakhstan
+1015,Eileen Figueroa,Guinea-Bissau
+1016,Ricky Freeman,Guinea-Bissau
+1017,Shelley Leon,Saint Barthelemy
+1018,Maria Harrington,Saint Martin
+1019,Karen Thornton,Bhutan
+1020,Seth Black,Chile
+1021,Cody Medina,United States Virgin Islands
+1022,Lucas Phillips,Kazakhstan
+1023,Jesse Cook,Cyprus
+1024,Renee Murphy,Germany
+1025,Derek Stanley,Sudan
+1026,Jeremy Hudson,Liberia
+1027,Lydia Phillips,Sao Tome and Principe
+1028,Gina Smith,Antarctica (the territory South of 60 deg S)
+1029,Jasmin Brooks,Norway
+1030,Rachel Johnson,Moldova
+1031,Jermaine Oliver,Morocco
+1032,Jonathan Griffin,Belarus
+1033,Tracy Pratt,Isle of Man
+1034,Nicole Love,Bahrain
+1035,Julie Miller,Egypt
+1036,Jon Edwards,Argentina
+1037,Tina Pearson,Guinea
+1038,Kristi Andrews,Antigua and Barbuda
+1039,Richard Lee,United States Minor Outlying Islands
+1040,Erin Grant,Nigeria
+1041,Maria Wilson,Togo
+1042,Dr. Raymond Norton,Algeria
+1043,Marcus Perez,Mali
+1044,Misty Smith,Uruguay
+1045,Samuel Gonzalez,Croatia
+1046,Caleb Christensen,Bangladesh
+1047,Christina Owen,Jordan
+1048,Keith Smith,Reunion
+1049,Michael Yang,Qatar
+1050,Miguel Lawrence,Isle of Man
+1051,Jill Brooks,Aruba
+1052,Matthew Proctor,Timor-Leste
+1053,Donna Villa,Djibouti
+1054,Gabriella Landry,Kenya
+1055,Michael Ramirez,Mayotte
+1056,Jeffery Alexander,Mongolia
+1057,Debra Howard,Venezuela
+1058,Patrick Ramos,Jamaica
+1059,Wesley Murray,Malta
+1060,Christopher Glover,Malawi
+1061,Christie Forbes,Malaysia
+1062,Jennifer Lewis,Mali
+1063,Brooke Farmer,Belize
+1064,Diana Lewis,Belarus
+1065,Nathaniel Cruz,Vanuatu
+1066,Sharon Garcia,United States Virgin Islands
+1067,Keith Bryant,Korea
+1068,Walter Sosa,Cayman Islands
+1069,Juan Chen,Brunei Darussalam
+1070,Jennifer Baker,Algeria
+1071,Keith George,British Virgin Islands
+1072,Katie Baker,Belgium
+1073,Nicole Morgan,Dominican Republic
+1074,Devin Gentry,Cuba
+1075,Samuel Wright,Mali
+1076,Rhonda Dixon,Ecuador
+1077,Annette Velazquez,Macedonia
+1078,Michael Warren,Kenya
+1079,Alex Young,Liechtenstein
+1080,Isaac Wilson,Tokelau
+1081,Daniel Williams,Dominica
+1082,Anthony Stephens,Equatorial Guinea
+1083,Samantha Kelly,Palestinian Territory
+1084,Jason Singleton,Denmark
+1085,Lee Green DDS,Nigeria
+1086,Lindsey Murray,Sudan
+1087,Courtney Blake,El Salvador
+1088,Darren Meyers,Japan
+1089,Kathleen Berry,Solomon Islands
+1090,Alexis Chase,Paraguay
+1091,Amanda Randall,Puerto Rico
+1092,Nicholas Newton,Somalia
+1093,Denise Lane,Kyrgyz Republic
+1094,Lori Taylor,Mongolia
+1095,Tiffany Butler,South Africa
+1096,Justin Hunt,Poland
+1097,Sean Robinson,Timor-Leste
+1098,Joshua Levy,Nigeria
+1099,Kimberly Gonzales,Korea
+1100,John Schultz,Trinidad and Tobago
+1101,Laura Cortez,Libyan Arab Jamahiriya
+1102,Daniel Knight,Guadeloupe
+1103,Angela Simmons,Philippines
+1104,Joshua Haas,Antigua and Barbuda
+1105,Jennifer Harmon,Isle of Man
+1106,Julie Sweeney,Armenia
+1107,Brian Nolan,Switzerland
+1108,Sarah Wilcox,Sudan
+1109,Gregory Moore,Cayman Islands
+1110,Janet Henry,Tunisia
+1111,Karen Hicks,Paraguay
+1112,Amanda Thomas,Nicaragua
+1113,Tracy Sullivan,Syrian Arab Republic
+1114,Kenneth Davis,Kazakhstan
+1115,Eileen Figueroa,Guinea-Bissau
+1116,Ricky Freeman,Guinea-Bissau
+1117,Shelley Leon,Saint Barthelemy
+1118,Maria Harrington,Saint Martin
+1119,Karen Thornton,Bhutan
+1120,Seth Black,Chile
+1121,Cody Medina,United States Virgin Islands
+1122,Lucas Phillips,Kazakhstan
+1123,Jesse Cook,Cyprus
+1124,Renee Murphy,Germany
+1125,Derek Stanley,Sudan
+1126,Jeremy Hudson,Liberia
+1127,Lydia Phillips,Sao Tome and Principe
+1128,Gina Smith,Antarctica (the territory South of 60 deg S)
+1129,Jasmin Brooks,Norway
+1130,Rachel Johnson,Moldova
+1131,Jermaine Oliver,Morocco
+1132,Jonathan Griffin,Belarus
+1133,Tracy Pratt,Isle of Man
+1134,Nicole Love,Bahrain
+1135,Julie Miller,Egypt
+1136,Jon Edwards,Argentina
+1137,Tina Pearson,Guinea
+1138,Kristi Andrews,Antigua and Barbuda
+1139,Richard Lee,United States Minor Outlying Islands
+1140,Erin Grant,Nigeria
+1141,Maria Wilson,Togo
+1142,Dr. Raymond Norton,Algeria
+1143,Marcus Perez,Mali
+1144,Misty Smith,Uruguay
+1145,Samuel Gonzalez,Croatia
+1146,Caleb Christensen,Bangladesh
+1147,Christina Owen,Jordan
+1148,Keith Smith,Reunion
+1149,Michael Yang,Qatar
+1150,Miguel Lawrence,Isle of Man
+1151,Jill Brooks,Aruba
+1152,Matthew Proctor,Timor-Leste
+1153,Donna Villa,Djibouti
+1154,Gabriella Landry,Kenya
+1155,Michael Ramirez,Mayotte
+1156,Jeffery Alexander,Mongolia
+1157,Debra Howard,Venezuela
+1158,Patrick Ramos,Jamaica
+1159,Wesley Murray,Malta
+1160,Christopher Glover,Malawi
+1161,Christie Forbes,Malaysia
+1162,Jennifer Lewis,Mali
+1163,Brooke Farmer,Belize
+1164,Diana Lewis,Belarus
+1165,Nathaniel Cruz,Vanuatu
+1166,Sharon Garcia,United States Virgin Islands
+1167,Keith Bryant,Korea
+1168,Walter Sosa,Cayman Islands
+1169,Juan Chen,Brunei Darussalam
+1170,Jennifer Baker,Algeria
+1171,Keith George,British Virgin Islands
+1172,Katie Baker,Belgium
+1173,Nicole Morgan,Dominican Republic
+1174,Devin Gentry,Cuba
+1175,Samuel Wright,Mali
+1176,Rhonda Dixon,Ecuador
+1177,Annette Velazquez,Macedonia
+1178,Michael Warren,Kenya
+1179,Alex Young,Liechtenstein
+1180,Isaac Wilson,Tokelau
+1181,Daniel Williams,Dominica
+1182,Anthony Stephens,Equatorial Guinea
+1183,Samantha Kelly,Palestinian Territory
+1184,Jason Singleton,Denmark
+1185,Lee Green DDS,Nigeria
+1186,Lindsey Murray,Sudan
+1187,Courtney Blake,El Salvador
+1188,Darren Meyers,Japan
+1189,Kathleen Berry,Solomon Islands
+1190,Alexis Chase,Paraguay
+1191,Amanda Randall,Puerto Rico
+1192,Nicholas Newton,Somalia
+1193,Denise Lane,Kyrgyz Republic
+1194,Lori Taylor,Mongolia
+1195,Tiffany Butler,South Africa
+1196,Justin Hunt,Poland
+1197,Sean Robinson,Timor-Leste
+1198,Joshua Levy,Nigeria
+1199,Kimberly Gonzales,Korea
